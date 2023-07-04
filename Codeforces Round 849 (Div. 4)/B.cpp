@@ -2,7 +2,7 @@
 #define int long long
 using namespace std;
 
-// 秒了 测试一下修改
+// 秒了
 void moxin()
 {
     int n;
